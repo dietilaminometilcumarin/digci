@@ -3,9 +3,31 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>DIGCI - Digital City</title>
+<title>DIGCI - Digital City Hub</title>
 
-<script src="https://kit.fontawesome.com/b5082c672d.js" crossorigin="anonymous"></script>
+<!-- SEO -->
+<meta name="description" content="Digci.com is your Digital City hub, uniting diverse digital products for everyday users: social network, music streaming, youth-focused radio, online games, and more. Connect, entertain, and explore in one seamless digital space.">
+<meta name="keywords" content="digital products, social network, music streaming, online radio, youth radio, online games, digital hub, digital city, Digci">
+
+<!-- Open Graph -->
+<meta property="og:title" content="DIGCI - Digital City Hub">
+<meta property="og:description" content="Explore Digci.com — your hub for social networks, music streaming, youth radio broadcasts, online games, and more.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://digci.com">
+<meta property="og:image" content="https://digci.com/media/preview.jpg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="DIGCI - Digital City Hub">
+<meta name="twitter:description" content="Your portal for social networking, music streaming, youth radio, online games and more.">
+<meta name="twitter:image" content="https://digci.com/media/preview.jpg">
+
+<!-- Favicon -->
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/YOUR_AWESOME_KIT.js" crossorigin="anonymous"></script>
+
 <style>
     * { margin:0; padding:0; box-sizing:border-box; }
     html, body { height:100%; font-family:Arial,sans-serif; color:#fff; background:linear-gradient(135deg,#0f2027,#203a43,#2c5364); display:flex; flex-direction:column; }
@@ -14,9 +36,9 @@
     header h1 { font-size:3em; letter-spacing:4px; }
     header h2 { font-size:1.5em; font-weight:400; margin-top:10px; opacity:0.8; }
 
-    main { flex:1; display:flex; justify-content:center; align-items:center; }
+    main { flex:1; display:flex; justify-content:center; align-items:center; padding:20px; }
 
-    
+
     .video-container {
         width: 360px; height: 640px;
         max-width:90%; max-height:90%;
@@ -32,7 +54,18 @@
         object-fit:cover;
     }
 
-    
+
+    .seo-text {
+        text-align:center;
+        padding:20px 40px;
+        max-width:900px;
+        margin:0 auto;
+        font-size:0.8em;
+        line-height:1.6;
+        color:#f0f0f0;
+    }
+
+
     footer {
         background:rgba(0,0,0,0.85);
         text-align:center;
@@ -64,7 +97,7 @@
     }
 
     footer .socials a:hover {
-        color:#1db954; 
+        color:#1db954;
     }
 
     footer .brand {
@@ -73,11 +106,19 @@
         opacity:0.7;
     }
 
+
     @media (max-width:768px) {
         .video-container { width:240px; height:426px; }
         header h1 { font-size:2.2em; }
         header h2 { font-size:1.2em; }
         footer { padding:30px 15px; }
+        footer .contacts a { font-size:1em; margin:0 8px; }
+        footer .socials a { font-size:1.5em; }
+    }
+
+    @media (max-width:480px) {
+        .video-container { width:200px; height:356px; }
+        .seo-text { font-size:1em; padding:15px; }
     }
 </style>
 </head>
@@ -93,6 +134,11 @@
         <video src="https://digci.com/media/promo.mp4" autoplay muted loop playsinline></video>
     </div>
 </main>
+
+<!-- SEO -->
+<section class="seo-text">
+    Welcome to <strong>digci.com</strong> — your Digital City hub, uniting a variety of engaging digital products for everyday users. Explore our social network, music streaming, youth-focused radio broadcasts, online games, and more. Digci is designed to connect, entertain, and inspire in one seamless digital space.
+</section>
 
 <footer>
     <div class="contacts">
