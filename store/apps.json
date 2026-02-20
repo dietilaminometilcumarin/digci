@@ -3,18 +3,19 @@
   "apps": [
     {
       "name": "Fox Buster",
-      "version": "1",
+      "version": 1,
       "package_name": "com.alcoholsoft.foxbuster",
       "apk_url": "https://..."
     },
     {
       "name": "Fox Buster",
-      "version": "5",
+      "version": 5,
       "package_name": "com.alcoholsoft.foxbuster",
       "apk_url": "https://..."
     }
   ]
 }
+
 
 
 
