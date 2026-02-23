@@ -1,0 +1,45 @@
+{
+  "screen_title": "Главная",
+  "content": [
+    {
+      "type": 0,
+      "section_title": "Популярные плейлисты",
+      "items": [
+        {
+          "name": "Топ Хиты 2024",
+          "subtitle": "Лучшая музыка года",
+          "image_url": "https://example.com/img1.jpg",
+          "track_id": "playlist_001"
+        },
+        {
+          "name": "Релакс",
+          "subtitle": "Спокойные мелодии",
+          "image_url": "https://example.com/img2.jpg",
+          "track_id": "playlist_002"
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "section_title": "ТРЕК ДНЯ",
+      "single_item": {
+        "name": "Starboy",
+        "subtitle": "The Weeknd",
+        "image_url": "https://example.com/starboy.jpg",
+        "track_id": "track_999"
+      }
+    },
+    {
+      "type": 0,
+      "section_title": "Недавно прослушано",
+      "items": [
+        {
+          "name": "Daily Mix 1",
+          "subtitle": "На основе ваших вкусов",
+          "image_url": "https://example.com/img3.jpg",
+          "track_id": "mix_001"
+        }
+      ]
+    }
+  ]
+}
