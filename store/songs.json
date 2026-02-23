@@ -12,6 +12,12 @@
           "track_id": "playlist_001"
         },
         {
+          "name": "Для спорта",
+          "subtitle": "Фитнес и бодибилдинг",
+          "image_url": "https://i.7fon.org/1000/g1757759.jpg",
+          "track_id": "playlist_001"
+        },
+        {
           "name": "Релакс",
           "subtitle": "Спокойные мелодии",
           "image_url": "https://i.7fon.org/450/s124334.jpg",
@@ -43,4 +49,5 @@
     }
   ]
 }
+
 
