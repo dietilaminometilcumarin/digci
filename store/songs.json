@@ -30,7 +30,7 @@
       "section_title": "ТРЕК ДНЯ",
       "single_item": {
         "name": "Starboy",
-        "subtitle": "The Weeknd",
+        "subtitle": "The Weeknd - канадский певец, автор песен и актёр. Известен своим нетрадиционным музыкальным производством, мрачным лиризмом и частой сменой образов.",
         "image_url": "https://i.7fon.org/450/g240041.jpg",
         "track_id": "track_999"
       }
@@ -46,8 +46,21 @@
           "track_id": "mix_001"
         }
       ]
+    },
+    {
+      "type": 0,
+      "section_title": "Лучшие хиты",
+      "items": [
+        {
+          "name": "Daily Mix 1",
+          "subtitle": "Специальная подборка",
+          "image_url": "https://i.7fon.org/1000/g451744.jpg",
+          "track_id": "mix_001"
+        }
+      ]
     }
   ]
 }
+
 
 
