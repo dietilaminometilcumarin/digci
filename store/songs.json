@@ -8,13 +8,13 @@
         {
           "name": "Топ Хиты 2024",
           "subtitle": "Лучшая музыка года",
-          "image_url": "https://example.com/img1.jpg",
+          "image_url": "https://i.7fon.org/450/b174614.jpg",
           "track_id": "playlist_001"
         },
         {
           "name": "Релакс",
           "subtitle": "Спокойные мелодии",
-          "image_url": "https://example.com/img2.jpg",
+          "image_url": "https://i.7fon.org/450/s124334.jpg",
           "track_id": "playlist_002"
         }
       ]
@@ -25,7 +25,7 @@
       "single_item": {
         "name": "Starboy",
         "subtitle": "The Weeknd",
-        "image_url": "https://example.com/starboy.jpg",
+        "image_url": "https://i.7fon.org/450/g240041.jpg",
         "track_id": "track_999"
       }
     },
@@ -36,10 +36,11 @@
         {
           "name": "Daily Mix 1",
           "subtitle": "На основе ваших вкусов",
-          "image_url": "https://example.com/img3.jpg",
+          "image_url": "https://i.7fon.org/450/c130848.jpg",
           "track_id": "mix_001"
         }
       ]
     }
   ]
 }
+
