@@ -44,15 +44,9 @@
           "subtitle": "На основе ваших вкусов",
           "image_url": "https://i.7fon.org/450/c130848.jpg",
           "track_id": "mix_001"
-        }
-      ]
-    },
-    {
-      "type": 0,
-      "section_title": "Лучшие хиты",
-      "items": [
+        },
         {
-          "name": "Daily Mix 1",
+          "name": "Марьяна",
           "subtitle": "Специальная подборка",
           "image_url": "https://i.7fon.org/1000/g451744.jpg",
           "track_id": "mix_001"
@@ -61,6 +55,7 @@
     }
   ]
 }
+
 
 
 
